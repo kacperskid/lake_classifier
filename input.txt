@@ -1,0 +1,68 @@
+﻿typ="2a" #typ jeziora (1a,1b,2a,2b,3a,3b,4,5a,5b,6a,6b,7a,7b)
+schindler="1.5" #współczynnik Schindlera
+
+##### Wskaźniki biologogiczne ######
+
+chlorofil="1" #zawartość chlorofilu a
+IOJ="1" #Multimetryczny indeks okrzemkowy
+MISE="0.08" #Makrofitowy indeks stanu ekologicznego
+
+##### Elementy hydromorfologiczne #####
+
+##### Reżim hydrologiczny ######
+
+hydro1="1" #Wielkość i dynamika przepływu wody
+hydro2="0" #Połączenie z częściami wód podziemnych
+hydro3="1" #Czas retencji
+
+##### Warunki morfologiczne #####
+
+morf1="1" #zmienność głębokości
+morf2="1" #struktura ilościowa i podłoże dna
+morf3="1" #Struktura brzegu jeziora
+
+##### Elementy fizykochemiczne #####
+
+##### Stan fizyczny #####
+
+secchi="2.5" #Widzialność krążka Secchiego
+
+##### Warunki tlenowe #####
+
+tlen1="0.10" #Tlen rozpuszczony
+tlen2="0.40" #Nasycenie tlenem hypolimnionu
+
+##### Zasolenie #####
+
+przew="0.14" #Przewodność
+
+##### Substancje biogenne #####
+
+azot="0.14,0.12,0.13,0.11" #azot całkowity
+fosfor="0.8" #fosfor ogólny
+
+##### Zanieczyszczenia #####
+
+aldehyd="0"
+arsen="0"
+bar="0"
+bor="0"
+chrom6="2.4"
+chrom="0"
+cynk="0"
+miedź="0"
+I_F="0" #indeks fenolowy
+IOM="0" #indeks oleju mineralnego
+glin="0"
+cyjankiw="0" #cyjanki wolne
+cyjankiz="3" #cyjanki związane
+molibden="0"
+selen="0"
+srebro="0"
+tal="0"
+tytan="0"
+wanad="0"
+antymon="0.00002"
+fluorki="0"
+beryl="0"
+kobalt="99"
